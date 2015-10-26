@@ -22,7 +22,7 @@ src_prepare() {
 }
 
 src_compile() {
-	go run build.go
+	go run build.go -no-upgrade
 }
 
 src_install() {

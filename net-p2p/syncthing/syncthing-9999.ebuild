@@ -9,7 +9,7 @@ EGIT_REPO_URI="git://github.com/syncthing/syncthing.git"
 
 LICENSE="MPL-2.0"
 SLOT="0"
-KEYWORDS="~amd64 ~arm"
+KEYWORDS=""
 DEPEND=">=dev-lang/go-1.3"
 RDEPEND="${DEPEND}"
 

@@ -12,7 +12,7 @@ SLOT="0"
 KEYWORDS="~amd64 ~x86"
 IUSE=""
 
-DEPEND="net-libs/libmicrohttpd[messages]"
+DEPEND="net-libs/libmicrohttpd"
 RDEPEND="${DEPEND}"
 
 src_compile() {

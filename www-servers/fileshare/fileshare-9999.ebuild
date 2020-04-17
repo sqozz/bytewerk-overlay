@@ -5,7 +5,7 @@ inherit git-r3
 DESCRIPTION="A small HTTP Server for quickly sharing files over the network."
 HOMEPAGE="http://git.tkolb.de/fileshare/"
 
-EGIT_REPO_URI="http://git.tkolb.de/fileshare.git"
+EGIT_REPO_URI="https://git.tkolb.de/Public/fileshare.git"
 
 LICENSE="PIZZAWARE"
 SLOT="0"
